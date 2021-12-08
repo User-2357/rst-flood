@@ -1,1 +1,3 @@
-# rst-flood
+# RST Flood
+
+A denial-of-service attack
